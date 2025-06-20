@@ -5,5 +5,5 @@ Se o jogador querer salvar essa planilha para o seu próprio computador, basta c
 Se o jogador querer colocar outra venda, pode colocar novamente nos campos, pois o programa os libera assim que o jogador salvar a ação anterior.
 
 OBS: Desenhos feitos com ajuda de IA
-
+OBS: Feito no p5.js
 OBJETIVO: O objetivo desse jogo é ajudar o agricultor a salvar seus dados desde a compra das sementes e fertilizantes até a venda do produto já pronto
